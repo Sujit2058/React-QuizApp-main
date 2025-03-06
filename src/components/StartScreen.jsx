@@ -1,7 +1,7 @@
 function StartScreen({ numQuestions, dispatch }) {
   return (
     <div className="start">
-      <h2>Welcome to S Quiz!</h2>
+      <h2>Welcome to S-Quiz!</h2>
       <h3>{numQuestions} to know Bhagwad Gita.</h3>
       <button
         className="btn btn-ui"
